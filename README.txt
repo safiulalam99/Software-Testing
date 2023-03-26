@@ -39,4 +39,4 @@ The test suite includes tests for the classes listed above. Each class has its o
 
 ## Author
 
-Safiul ALam
+Safiul Alam
